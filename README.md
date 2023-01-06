@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mustafa I'm a self and course learning developer candidate.
 - 👀 I’m good at C#, Html, Css and Javascript.
 - 🌱 I’m currently learning Python and I'm thinking to learn Swift, React and Vue. 
-- 💞️ I’m looking to work as a back end developer or app developer.
+- 💞️ I’m looking to work as a Full-Stack Developer or App Developer.
 - 📫 How to reach me mstfayu@gmail.com
 
 <!---
